@@ -1,0 +1,12 @@
+[submodule "present2"]
+	path = present2
+	url = https://github.com/project-ee/present2.git
+[submodule "present-3"]
+	path = present-3
+	url = https://github.com/project-ee/present-3.git
+[submodule "present-4"]
+	path = present-4
+	url = https://github.com/project-ee/present-4.git
+[submodule "present-5"]
+	path = present-5
+	url = https://github.com/project-ee/present-5.git
